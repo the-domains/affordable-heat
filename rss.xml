@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[affordable heat]]></title>
+        <description><![CDATA[affordable heat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 18:29:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Affordable Heat Consortium]]></title>
+            <description><![CDATA[<article><h1>Affordable Heat Consortium</h1><p>affordable heat, renewable energy, Eastport, Affordable Heat Consortium, Thermal Efficiency: Eastport, fuel poverty, efficiency, heating, excess winter morbidity</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bbe7b8fd5b06b57997140f497b23424abd1873b.gif"></article>]]></description>
+            <link>https://sites.google.com/site/affordableheatconsortium/</link>
+            <guid isPermaLink="false">f16e2ec1-2e56-4694-857e-7e29bbdf6698</guid>
+            <pubDate>Sun, 07 Feb 2016 18:28:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
