@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://sites.google.com'
-  name: Google
-  favicon: 'https://www.google.com/images/icons/product/sites-16.ico'
-  domain: sites.google.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://sites.google.com/site/affordableheatconsortium/'
+inLanguage: en
+starred: false
 keywords:
   - heating
   - consortium
@@ -18,17 +17,20 @@ keywords:
   - abuse
   - print
 description: 'affordable heat, renewable energy, Eastport, Affordable Heat Consortium, Thermal Efficiency: Eastport, fuel poverty, efficiency, heating, excess winter morbidity'
-inLanguage: en
+datePublished: '2016-02-07T18:29:15.805Z'
+dateModified: '2016-02-07T18:28:30.415Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://sites.google.com/site/affordableheatconsortium/'
 title: Affordable Heat Consortium
-datePublished: '2016-02-07T18:28:52.891Z'
-dateModified: '2016-02-07T18:28:12.172Z'
+authors: []
+publisher:
+  name: Google
+  domain: sites.google.com
+  url: 'https://sites.google.com'
+  favicon: 'https://www.google.com/images/icons/product/sites-16.ico'
 sourcePath: _posts/2016-02-07-affordable-heat-consortium.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
